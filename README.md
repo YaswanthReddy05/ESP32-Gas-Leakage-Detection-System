@@ -42,10 +42,10 @@ This project is an ESP32-based Gas Leakage Detection and Alert System developed 
 ## Project Images
 
 ### Circuit Diagram
-![Circuit](circuit.png)
+![Circuit](circuit.png.png)
 
 ### SAFE Mode
-![SAFE](safe.png)
+![SAFE](safe.png.png)
 
 ### ALERT Mode
-![ALERT](alert.png)
+![ALERT](alert.png.png)
